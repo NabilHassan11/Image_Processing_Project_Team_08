@@ -2,7 +2,7 @@
 
 ## Milestone 1
 
-### 🔹 Project Structure
+### 🔹 Milestone Structure
 - **Proteus Circuit**: The Proteus circuit and its image can be found in  
   📂 `Milestone1/Proteus_Circuit`
 - **Schematic Diagram**: The schematic can be found in  
@@ -21,4 +21,4 @@ Run the following commands to install the required dependencies:
 ```bash
 sudo apt update
 sudo apt install python3-opencv -y  # Install OpenCV
-pip install picamera2  # Install Picamera2 if using Pi Camera
+pip install picamera2
