@@ -37,19 +37,19 @@ void loop() {
 
     else if (command == "LEFTMOVE"){
       myServo.write(90);
-      esc.writeMicroseconds(1100);
+      esc.writeMicroseconds(1500);
 
     }
 
     else if (command == "RIGHTMOVE"){
       myServo.write(140);
-      esc.writeMicroseconds(1100);
+      esc.writeMicroseconds(1500);
 
     }
 
     else if(command == "MOVE"){
       myServo.write(120);
-      esc.writeMicroseconds(1100);
+      esc.writeMicroseconds(1500);
     }
 
     else{

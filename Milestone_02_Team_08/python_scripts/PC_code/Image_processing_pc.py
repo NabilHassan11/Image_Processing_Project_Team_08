@@ -26,6 +26,7 @@ def edge_detection(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
     return cv2.Canny(gray, 100, 200)
 
+
 cap = cv2.VideoCapture(1)  #0 for the PC camera 1 for the external camera
 
 if not cap.isOpened():
