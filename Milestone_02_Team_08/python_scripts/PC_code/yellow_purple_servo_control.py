@@ -7,8 +7,8 @@ import time
 arduino = serial.Serial('COM4', 9600, timeout=1)
 time.sleep(2)
 
-purple_lower = np.array([115, 100, 100])  # Shifted toward blue
-purple_upper = np.array([135, 255, 255])  # Narrower range
+purple_lower = np.array([115, 100, 100]) 
+purple_upper = np.array([135, 255, 255])  
 
 
 yellow_lower = np.array([20, 100, 100])
