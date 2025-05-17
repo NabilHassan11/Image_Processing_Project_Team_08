@@ -1,5 +1,5 @@
 # Autonomous Lane-Keeping System using Image Processing  
-**Team-08**: Nabil Hassan, Yassin Eissa, Shehab El-Wakil, Mohamed Mohy, Mahmoud Kattan  
+**Team-08**: Nabil Hassan, Yassin Eissa 
 **Mechatronics Department, German University in Cairo**  
 
 ---
@@ -14,7 +14,7 @@ This project implements a lane detection and control system for autonomous vehic
 - **Raspberry Pi 4B**: Processes images and computes steering commands.  
 - **Arduino Nano**: Translates steering angles into servo signals.  
 - **MG95R Servo Motor**: Controls front wheels for steering.  
-- **BLDC Motor (220KV)**: Powers rear wheels via an ESC.  
+- **BLDC Motor (1100KV)**: Powers rear wheels via an ESC.  
 - **Camera Module**: Captures lane images (adjusted tilt for perspective correction).  
 - **LiPo Battery & Power Bank**: Supplies power to components.  
 
