@@ -1,5 +1,6 @@
 # Autonomous Lane-Keeping System using Image Processing  
 **Team-08**: **Nabil Hassan, Yassin Eissa**
+---
 **Mechatronics Department, German University in Cairo**  
 
 ---
